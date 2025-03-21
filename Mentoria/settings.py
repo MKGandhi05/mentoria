@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-l4mq*a^ably7&w(uh_3(epr41%%hs%gh^$ei&qbv1fqd_04_ul
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['mentoria-website.onrender.com', '127.0.0.1']
+ALLOWED_HOSTS = ['www.mentoriainstitute.com', 'mentoriainstitute.com', '13.50.158.82', '127.0.0.1', 'localhost']
 
 
 # Application definition
